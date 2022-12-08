@@ -4,4 +4,4 @@
 designed to be cloud native and strongly integrated with AWS, focused mainly on OpenId Connect 
 
 # Architecture
-![vauthenticator-architecture.png](../images/vauthenticator-architecture.png)
+![vauthenticator-architecture.png](images/vauthenticator-architecture.png)
